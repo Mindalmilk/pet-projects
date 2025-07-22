@@ -2,5 +2,5 @@
 Использовал открытый датасет, чтобы потренировать свои умения в создании дашбордов.
 Использовал DataLens
 ## SCREENSHOTS
-![datalens](https://github.com/Mindalmilk/pet-projects/blob/main/S7_dashboard/dashboard_ver_1.png)
+![datalens](https://github.com/Mindalmilk/pet-projects/blob/main/S7_dashboard/dashbord.png)
 
