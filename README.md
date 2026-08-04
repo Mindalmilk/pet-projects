@@ -4,15 +4,19 @@
 -   Визуализированы общие данные по покупкам, по странам, по отдельным покупателям и часам дня\дням недели\месяцам
 -   Проведены когортный анализ удержания клиентов и сегментация пользователей на RFM-кластеры
 -   Технологии: Python, Numpy, Pandas, Jupiter Notebook, Matplotlib, Seaborn
-#[S7 Dashboard](https://github.com/Mindalmilk/pet-projects/tree/main/S7_dashboard)
+  
+# [S7 Dashboard](https://github.com/Mindalmilk/pet-projects/tree/main/S7_dashboard)
 − Подсчитал основные экономические показатели на основе имеющихся данных
 − Выбран оптимальный дашборд и грамотно оформлен
-#[AB-test](https://github.com/Mindalmilk/pet-projects/tree/main/AB-test)
+
+# [AB-test](https://github.com/Mindalmilk/pet-projects/tree/main/AB-test)
 − Сформулировал продуктовую и статистическую гипотезу для теста
 − Определил минимальное количество наблюдений нужных для проведения эксперимента
 − Интерпретировал результаты теста
-− Технологии: Python, Numpy, Pandas, Jupiter Notebook, SciPy, Statsmodels  
-#[funnel_analysis](https://github.com/Mindalmilk/pet-projects/tree/main/funnel_analysis)
+− Технологии: Python, Numpy, Pandas, Jupiter Notebook, SciPy, Statsmodels
+
+
+# [funnel_analysis](https://github.com/Mindalmilk/pet-projects/tree/main/funnel_analysis)
 − Выполнил первичную обработку данных, визуализировал информацию о количестве клиентов в зависимости от дня недели и распределение пользователей по различным параметрам
 − На основе записей о действиях пользователей создал, визуализировал и проанализировал воронку продаж(от посещения корзины до оформления заказа)
 − Сформулировал и проверил гипотезу о зависимости конверсии в покупку и канала трафика, откуда пришел пользователь
